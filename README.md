@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project is a Python-based task management assistant that understands natural language commands and helps users organize daily work efficiently. It supports task creation, priority detection, due date parsing, progress tracking, and daily summaries using a simple CLI interface.
 
----
 
 ## 🚀 Features
 
@@ -20,7 +19,7 @@ This project is a Python-based task management assistant that understands natura
 - Extendable for calendar integration
 - Report generation support
 
----
+
 
 ## 🛠️ Tech Stack
 - Python 3.8+
@@ -29,6 +28,4 @@ This project is a Python-based task management assistant that understands natura
 - CLI-based interface
 - Modular and extensible design
 
----
 
-## 📂 Project Structure
